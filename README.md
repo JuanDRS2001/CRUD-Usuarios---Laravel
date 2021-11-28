@@ -1,3 +1,11 @@
+En este repositorio se podrá encontrar un sistema en donde se puede realizar la creación, lectura, edición y eliminación de un usuario.
+Los datos que se solicitan para la creación de este son Nombre, Apellidos, Edad, Correo Electrónico e insertar una foto.
+
+Este CRUD fue realizado con el lenguaje de programación Php en su framework Laravel versión 8.
+
+![1 CRUD Lista de usuarios](https://user-images.githubusercontent.com/57547328/143725144-d81343a9-536a-4933-a234-bab91ad1679e.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
